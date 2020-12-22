@@ -1,1 +1,2 @@
 # fetch-data-and-transform
+This project retrieves data from https://restcountries.eu and transforms it into a Json file with name, region, population, capital city and all currencies code. The file is written to disk.
